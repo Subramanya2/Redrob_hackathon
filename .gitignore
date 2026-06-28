@@ -33,8 +33,10 @@ Thumbs.db
 desktop.ini
 ~$*
 
-# Generation script (not part of submission)
+# Generation scripts (not part of submission)
 create_pptx.py
+create_pdf.py
+scratch/
 
 # HTML version (PPTX is the primary deck)
 presentation.html
