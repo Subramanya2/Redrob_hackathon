@@ -1,0 +1,49 @@
+# Data files (too large for GitHub, provided by challenge)
+data/
+*.zip
+*.jsonl
+
+# Challenge template PDF
+Idea Submission Template _ Redrob.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS / Office temp
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Generation script (not part of submission)
+create_pptx.py
+
+# HTML version (PPTX is the primary deck)
+presentation.html
+
+# Template extraction artifacts
+template_pages/
+
+# Presentation, PDFs, and spreadsheets (should not be in GitHub)
+*.pptx
+*.pdf
+*.xlsx
+submission_presentation.*
