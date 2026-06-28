@@ -37,6 +37,7 @@ desktop.ini
 create_pptx.py
 create_pdf.py
 scratch/
+context.md
 
 # HTML version (PPTX is the primary deck)
 presentation.html
